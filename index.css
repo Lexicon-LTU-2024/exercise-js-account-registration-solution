@@ -23,6 +23,7 @@ h1 {
   text-align: center;
 }
 
+/* ########## Form ##########*/
 form {
   background-color: white;
   border-radius: var(--border-radius);
